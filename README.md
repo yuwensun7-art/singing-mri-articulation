@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=REHXN-idz-I
 
 These recordings are not owned by the author and are therefore **not redistributed** in this repository.
 
-Image frames used for analysis were obtained via screen recording and subsequent cropping for research purposes only. In accordance with copyright restrictions, no video files or image frames derived from the source material are shared here.
+Image frames used for analysis were obtained via screen recording and subsequent cropping for research purposes only. In accordance with copyright restrictions, no video files or image frames derived from the source material are shared here. This repository provides only the analysis code and illustrative examples necessary to reproduce the computational workflow.
 
 ## License
 
