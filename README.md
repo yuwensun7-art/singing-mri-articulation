@@ -1,6 +1,6 @@
-# Singing MRI Articulation
+# Singing MRI Articulation – Analysis Code and Derived Data
 
-This repository contains analysis code and derived data representations associated with a study on articulatory coordination in singing based on real-time MRI.
+This repository contains analysis code and derived data representations associated with a study on articulatory coordination and acoustic–articulatory mapping in singing based on real-time MRI.
 
 ## Repository structure
 
@@ -8,7 +8,7 @@ This repository contains analysis code and derived data representations associat
   Scripts for preprocessing, dimensionality reduction, acoustic analysis, and inverse feasibility analysis.
 
 - `data/`  
-  Documentation of source materials and derived representations.
+  Documentation of source materials and derived data representations.
 
 - `figures/`  
   Figures generated for the manuscript.
@@ -21,7 +21,11 @@ https://www.youtube.com/watch?v=REHXN-idz-I
 
 These recordings are not owned by the author and are therefore **not redistributed** in this repository.
 
-Image frames used for analysis were obtained via screen recording and subsequent cropping for research purposes only. In accordance with copyright restrictions, no video files or image frames derived from the source material are shared here. This repository provides only the analysis code and illustrative examples necessary to reproduce the computational workflow.
+Image frames used for analysis were obtained via screen recording and subsequent cropping for research purposes only. In accordance with copyright restrictions, no video files or image frames derived from the source material are shared here. This repository provides only analysis code and derived data representations sufficient to reproduce the computational workflow.
+
+## Data and code availability
+
+All analysis code and derived data used in this study are available in this repository. Original real-time MRI recordings are publicly available on YouTube and are not redistributed here due to copyright restrictions.
 
 ## License
 
